@@ -1,0 +1,2 @@
+# NOTE_LCPU
+note
